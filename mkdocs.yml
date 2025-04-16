@@ -35,4 +35,6 @@ markdown_extensions:
       pygments_lang_class: true
 
 nav: 
-  - fe_readme.md
+  - Carrot SDK: index.md
+  - Web SDK: fe_readme.md
+
